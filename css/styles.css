@@ -1,5 +1,6 @@
 html {
 	box-sizing: border-box; /* Свойства wigth и height включают в себя значения границ и полей элемента */
+	scroll-behavior: smooth;
 }
 
 *,
